@@ -1,6 +1,7 @@
 # Created by .ignore support plugin (hsz.mobi)
 .idea/
 *.iws
+*.iml
 /out/
 .idea_modules/
 atlassian-ide-plugin.xml
